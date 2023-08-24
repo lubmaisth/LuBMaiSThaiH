@@ -1,0 +1,12 @@
+body {
+  background-image:url(https://i.pinimg.com/originals/b6/fb/73/b6fb736bb29ed7268548834cac2eeff6.jpg);
+  box-sizing: border-box;
+  }
+h1 {
+    color:#18614F;
+  text-align:center;
+  }
+  p {
+    color:#0C382D;
+  text-align:center;
+  }
